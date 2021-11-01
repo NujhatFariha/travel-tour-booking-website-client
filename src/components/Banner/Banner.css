@@ -1,0 +1,31 @@
+  .banner {
+    height: 111vh;
+    width: 100%;
+    background-image: url("https://www.outlooktravelmag.com/assets/images/uploads/travel-guides/0/99/blocks/aP2rQL0u1611924457-1-1611924457.4x.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  header{
+    padding-top: 200px;
+  }
+  body {
+    width: 100%;
+  } 
+  .visit-btn {
+    background: #5c2c2c;
+    border: none;
+    padding: 15px 35px;
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    color: rgb(205, 215, 253);
+
+  }
+  .visit-btn:hover {
+    background-color: rgba(9, 7, 29, 0.815);
+    color: rgb(255, 255, 255);
+
+  }

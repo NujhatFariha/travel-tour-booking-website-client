@@ -1,0 +1,9 @@
+.signIn-btn{
+    border: none;
+    padding: 8px 10px;
+    background-color: rgb(42, 74, 104);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+}

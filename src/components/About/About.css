@@ -1,0 +1,27 @@
+.about {
+    background-image: url("https://www.coverwise.co.uk/App_Themes/Travel/resources/css/images/Landing/hammock.jpg");
+    height: 650px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+  }
+
+  .header-font{
+      font-size: 55px;
+      margin-top: 170px;
+      font-weight: bolder;
+  }
+
+ .learn-more-btn{
+     width: 130px;
+     border: none;
+     background-color: rgb(255, 213, 213);
+     padding: 12px 13px;
+     color: black;
+     font-weight: 600;
+     font-size: 20px;
+     margin-top: 20px;
+ }

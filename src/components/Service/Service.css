@@ -1,0 +1,21 @@
+.feature-card{
+    height:620px;
+    width: 540px;
+}
+
+.btn-details{
+    border: 2px solid black;
+    color: #000000;
+    background-color:rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-bottom: 15px;
+
+}
+
+.btn-details:hover {
+    border: none ;
+    background-color:rgb(104, 165, 125);
+   
+}
