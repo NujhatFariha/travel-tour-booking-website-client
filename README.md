@@ -8,4 +8,4 @@ Website Description :
 ④ User can sign in and login in the website and enjoy the facilities of the website.
 ⑤ Contact information are also given in the website.
 
-# Live Website Link : https://tourism-website-c5dd8.web.app/service/trs7720
+# Live Website Link : https://tourism-website-c5dd8.web.app/
